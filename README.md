@@ -1,1 +1,1 @@
-## CHURN PREDICTION PROJECT
+## Churn Prediction Project
